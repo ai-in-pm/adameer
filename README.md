@@ -3,6 +3,8 @@
 
 **Adameer** is an AI-powered software development assistant that orchestrates a team of agents to solve programming tasks. It uses OpenAI's GPT-based agents to perform various roles such as architecture design, implementation, testing, and reviewing.
 
+## This Repository was inspired by the Devyan GitHub Repository. Visit the repo: https://github.com/theyashwanthsai/Devyan
+
 ## Features
 
 - **Architect Agent**: Designs the architecture of the solution based on the user input.
@@ -90,12 +92,3 @@ adameer/
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature``).
 5. Open a pull request.
-
-## Todo
-- [x] Create Custom tool to write file
-- [x] Create Custom tool to create directory
-- [x] Change prompts in tasks, make it more detialed and clear
-- [ ] Use pytoml
-- [ ] Add Agent Logs
-- [ ] Stackoverflow tool
-- [ ] Code Execution
