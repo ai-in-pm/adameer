@@ -1,0 +1,8 @@
+crewai==0.86.0
+crewai-tools>=0.17.0
+langchain-openai>=0.0.8
+python-decouple==3.8
+openai>=1.13.3
+litellm>=1.44.22
+tiktoken>=0.7.0
+duckduckgo-search>=4.4.3
